@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 id -un 1-who_am_i
+=======
+id -un
+
+>>>>>>> d4f469f0fc8dd4c5a7b68cac8ee91f100e4746f0
