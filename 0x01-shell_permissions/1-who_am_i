@@ -1,6 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
 id -un
-=======
-id -u
->>>>>>> 05d34beb3a13ddc36cd174bb6f9553953a4f4713
+
