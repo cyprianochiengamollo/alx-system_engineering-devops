@@ -1,2 +1,2 @@
 #!/bin/bash
-Id -un
+Id -n
