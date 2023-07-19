@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-id -n
-=======
-Id -n
->>>>>>> c6e390b0c6c4e970261903127d120baf0f1daf34
+id -un 
